@@ -24,12 +24,10 @@ This repository contains all my Capture The Flag (CTF) reports and ethical hacki
 
 
 
-## 🛠 Tools Used
+## 🛠 Tools Used/Learned
 
 - Nmap
-- Burp Suite
 - Gobuster
-- Hydra
 - Nikto
 - (and more as I learn)
 
