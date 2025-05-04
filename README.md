@@ -19,7 +19,8 @@ This repository contains all my Capture The Flag (CTF) reports and ethical hacki
 ## 📝 Writeups
 
 | CTF Challenge | Difficulty | Date Completed | Link |
-|Pcap Posioning|:Medium|:5/4/2025|:https://www.picoctf.org/|
+| [Pcap Poisoning](writeups/pcap_poisoning.md) | Medium | 5/4/2025 | [picoCTF](https://www.picoctf.org/) |
+
 
 
 
