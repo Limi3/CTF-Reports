@@ -9,5 +9,5 @@ So I opened up my browser’s developer tools and checked the cookies. One of th
 ![Screenshot 2025-05-05 134254](https://github.com/user-attachments/assets/14a2b2b8-7942-4d8a-8afc-d61b88c317aa)
 I copied it and decoded it using base64decode.org. That’s when the real content revealed itself—and with it, the flag.
 
-That’s it for this challenge. See you in the next CTF!
+That’s it for this challenge. Cya on the next ctf!
 
