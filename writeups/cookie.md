@@ -8,4 +8,4 @@ So I opened DevTools → Application → Cookies and started experimenting with 
 Later, I came back with a fresh mindset and tried going through the values one by one. Eventually, when I hit 18, I was rewarded with the flag.
 ![Screenshot 2025-05-05 162358](https://github.com/user-attachments/assets/f5df512e-b16e-40d6-b647-c7b39c30746c)
 
-Persistence paid off on this one. On to the next CTF!
+Persistence paid off on this one. Cya on the next ctf
