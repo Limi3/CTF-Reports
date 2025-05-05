@@ -30,6 +30,8 @@ This repository contains all my Capture The Flag (CTF) reports and ethical hacki
 - Nmap
 - Gobuster
 - Nikto
+- Wireshark
+- Burp-Suite
 - (and more as I learn)
 
 ## 🧩 Skills Practiced
