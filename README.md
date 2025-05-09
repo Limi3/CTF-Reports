@@ -21,8 +21,8 @@ This repository contains all my Capture The Flag (CTF) reports and ethical hacki
 | [Pcap Poisoning](writeups/pcap_poisoning.md) | Medium/Intermediate | 5/4/2025 | [picoCTF](https://www.picoctf.org/) |<br>
 | [Cookie Monster's secret recipe](writeups/cookie_monster.md) | Easy | 5/5/2025 | [picoCTF](https://www.picoctf.org/) |<br>
 | [Cookie](writeups/cookie.md) | Easy | 5/6/2025 | [picoCTF](https://www.picoctf.org/) |<br>
-| [Cookie](writeups/logon.md) | Easy | 5/7/2025 | [picoCTF](https://www.picoctf.org/) |<br>
-| [Cookie](writeups/Inspe3ct0r.md) | Easy | 5/7/2025 | [picoCTF](https://www.picoctf.org/) |<br>
+| [Logon](writeups/logon.md) | Easy | 5/7/2025 | [picoCTF](https://www.picoctf.org/) |<br>
+| [Insp3ct0r](writeups/Inspe3ct0r.md) | Easy | 5/7/2025 | [picoCTF](https://www.picoctf.org/) |<br>
 
 
 
