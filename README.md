@@ -53,5 +53,5 @@ This repository contains all my Capture The Flag (CTF) reports and ethical hacki
 - I’m learning and improving every day.
 - Mistakes are part of the journey. 
 - This repo is for **practice and growth**.
-- I began my journey in April 2025, starting with CCNA to build a strong foundation in networking. I'm currently studying hard and plan to pursue the OSCP and many other certifications to become the best penetration tester I can be.
+- I began my journey in April 2025, starting with CCNA to build a strong foundation in basic networking. I'm currently studying hard and plan to pursue the OSCP and many other certifications to become the best penetration tester I can be.
 ---
