@@ -35,6 +35,7 @@ This repository contains all my Capture The Flag (CTF) reports and ethical hacki
 - Nikto
 - Wireshark
 - Burp-Suite
+-Metasploit
 - (and more as I learn)
 
 ## 🧩 Skills Practiced
