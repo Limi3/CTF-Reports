@@ -38,7 +38,9 @@ it tells me to look around the file system for other ingredient.
 i can check what do we have under the root directory with ls /
 it gives us the typical linux file system
 we can check what users are in the home directory
+
 <img width="603" height="340" alt="image" src="https://github.com/user-attachments/assets/7d27dd0d-eb6d-48b6-9d81-863bd47b0910" />
+
 and we can see theres a user named rick 
 lets check what is under the user rick's home directory
 <img width="329" height="318" alt="image" src="https://github.com/user-attachments/assets/0f600111-7a4a-4bdb-9182-a25085a834fe" />
