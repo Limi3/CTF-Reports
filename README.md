@@ -24,6 +24,7 @@ This repository contains all my Capture The Flag (CTF) reports and ethical hacki
 | [Logon](writeups/logon.md) | Easy | 5/7/2025 | [picoCTF](https://www.picoctf.org/) |<br>
 | [Insp3ct0r](writeups/Inspe3ct0r.md) | Easy | 5/7/2025 | [picoCTF](https://www.picoctf.org/) |<br>
 | [Public Exploits](writeups/public_exploits.md) | Easy | 8/31/2025 | [HTB academy](https://academy.hackthebox.com) | <br>
+| [Picke Rick](writeups/picklerick.md) | Easy | 11/27/2025 | [Try Hack Me ](https://tryhackme.com/room/picklerick)  | <br>
 
 
 
